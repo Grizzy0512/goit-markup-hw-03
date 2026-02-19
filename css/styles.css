@@ -110,6 +110,7 @@ h3 {
 .nav {
     display: flex;
     align-items: center;
+    gap: 76px;
 }
 
 .nav-list {
@@ -234,6 +235,7 @@ h3 {
 .features-item p {
     margin-top: 8px;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 /* ----------- TEAM ----------- */
@@ -264,6 +266,8 @@ h3 {
 
 .team-card-role {
     margin-top: 8px;
+    color: #434455;
+    letter-spacing: 0.02em;
 }
 
 /* ----------- PORTFOLIO ----------- */
@@ -288,6 +292,8 @@ h3 {
 
 .portfolio-card-category {
     margin-top: 8px;
+    color: #434455;
+    letter-spacing: 0.02em;
 }
 
 /* ----------- FOOTER ----------- */
@@ -306,6 +312,7 @@ h3 {
     margin-top: 16px;
     max-width: 264px;
     color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
 
 .logo-accent {
